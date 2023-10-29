@@ -1,0 +1,27 @@
+.parking-search-container {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.search-form {
+  margin-bottom: 10px;
+}
+
+.parking-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.parking-list li {
+  margin-bottom: 5px;
+}
+
+.parking-list li a {
+  text-decoration: none;
+}
+
+.results {
+  margin-top: 20px;
+}
