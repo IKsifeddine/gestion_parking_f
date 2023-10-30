@@ -11,7 +11,7 @@ import Login from './components/Login';
 import Navbar from './components/Navbar';
 import Addstat from './components/AjouteStat';
 import ExpensePage from './components/Searchstat';
-
+import React from 'react';
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
